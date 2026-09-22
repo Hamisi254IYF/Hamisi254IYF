@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Clinton Hamisi
 
-<!--
-**Hamisi254IYF/Hamisi254IYF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning Computer Science and Information Technology at WeCan Weekend Academy.
+- I'm interested in Computer Programming,Web development and data science.
+- I'm looking to collaborate on the intergration of AI in web development and data science with a commitment to advance the technology field to a higher level.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Machine Learning
+- languages e.g python, javascript etc
+- frameworks like Backend and frontend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Web Development(https://github.com) — Frontend Developer
+
+## How to Reach Me
+- Email: clintonhamisi47@gmail.com
+- Github:https://github/Hamisi254IYF.com
