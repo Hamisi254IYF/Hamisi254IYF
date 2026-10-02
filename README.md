@@ -16,4 +16,8 @@
 
 ## How to Reach Me
 - Email: clintonhamisi47@gmail.com
-- Github:https://github/Hamisi254IYF.com
+- Github:https://github.com/Hamisi254IYF
+
+  ### Setup
+  user.name=Hamisi254IYF
+user.email=clintonhamisi47@gmail.com
