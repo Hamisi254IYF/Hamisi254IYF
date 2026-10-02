@@ -19,5 +19,7 @@
 - Github:https://github.com/Hamisi254IYF
 
   ### Setup
-  user.name=Hamisi254IYF
+ '''text
+ user.name=Hamisi254IYF
 user.email=clintonhamisi47@gmail.com
+'''
